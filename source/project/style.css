@@ -98,6 +98,8 @@ h2 {
   border-radius: 4px;
   background-color: #FF8000;
   color: #ffffff;
+  padding-top: 30;
+  padding-bottom:30;
 }
 
 .container {
