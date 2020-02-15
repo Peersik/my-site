@@ -107,5 +107,6 @@ h2 {
   max-width: 928px;
   margin: 0 auto;
   padding: 0 16px;
+  align-items: center;
   justify-content: center;
 }
