@@ -88,3 +88,14 @@ h2 {
   justify-content: space-between;
   color: #999999;
 }
+
+.button {
+  padding: 6px 20px;
+  display: inline-block;
+  vertical-align: baseline;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background-color: #000000;
+  color: #ffffff;
+}
